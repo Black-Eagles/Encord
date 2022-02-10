@@ -1,0 +1,40 @@
+{
+  "name": "encord",
+  "version": "1.0.0",
+  "description": "Encord is a self-hosted App to get organized better and work together more efficiently",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Black-Eagles/Encord.git"
+  },
+  "keywords": [
+    "encord",
+    "self-hosted",
+    "website",
+    "workflow",
+    "collaborative",
+    "collaborate",
+    "self-hosted-api",
+    "self-hosted-app",
+    "work-together",
+    "collaboration-platform",
+    "javascript",
+    "typescript",
+    "web"
+  ],
+  "author": "Black Eagle Strike Force <mimikyudawae@gmail.com> (https://github.com/Black-Eagles)",
+  "license": "EUPL-1.2",
+  "bugs": {
+    "url": "https://github.com/Black-Eagles/Encord/issues"
+  },
+  "homepage": "https://github.com/Black-Eagles/Encord#readme",
+  "dependencies": {
+    "mariadb": "^2.5.5"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
