@@ -1,5 +1,1 @@
-# Node.js
-/node_modules/
-
-# Build
-/bin/
+/target
