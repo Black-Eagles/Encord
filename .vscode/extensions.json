@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "svelte.svelte-vscode",
+        "rust-lang.rust",
+        "bungcip.better-toml"
+    ]
+}
